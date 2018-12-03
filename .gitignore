@@ -1,0 +1,6 @@
+# ignore .DS_Store
+.DS_Store
+# ignore x64
+x64
+# ignore old version
+main_1101.cpp
